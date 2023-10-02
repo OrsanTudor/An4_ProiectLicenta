@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayTitleScreen
+  - ExitTitleScreen
+  - Replay
+  - Exit
+  - Exit2
+  - TryAgain
+  - ReplayLevel1
+  - TryAgainLevel1
+  - ExitPausedLevel1
+  - ExitGameOverLevel1
+  - LogicManagerLevel1
+  - Character
+  - UseIcon1
+  - UseIcon2
+  - UseIcon3
+  - UseIcon1Background
+  - UseIcon2Background
+  - UseIcon3Background
+  - LevelStart
+  - TutorialLevel1
+  - LogicManagerLevel2
+  - JumpPad
+  - Checkpoint1
+  - ReplayCheckpointLevel1
+  - LogicManagerLevel3
+  - JumpPad2
+  - JumpPad3
+  - JumpPad4
+  - JumpPad5
+  - LogicManagerHubArea
+  - RestartGameTitleScreen
+  - LevelTutorialNotDone
+  - LevelTutorialDone
+  - Level1NotDone
+  - Level1Done
+  - Level2NotDone
+  - Level2Done
+  - Level3NotDone
+  - Level3Done
+  - LevelFinalNotDone
+  - LevelFinalDone
+  - TutorialLevelGate
+  - NoGravityPlatform
+  - NoGravityPlatform1
+  - NoGravityPlatform2
+  - LogicManagerLevelOne
+  - LogicManagerLevelTwo
+  - LogicManagerLevelThree
+  - LogicManagerLevelFinal
+  - TeleportRed1
+  - TeleportRed2
+  - TeleportGreen1
+  - TeleportGreen2
+  - TeleportYellow1
+  - TeleportYellow2
+  - NoGravityPlatform3
+  - NoGravityPlatform4
+  - NoGravityPlatform5
+  - NoGravityPlatform6
+  - NoGravityPlatform7
+  - BreakPlatform
+  - BreakPlatform1
+  - BreakPlatform2
+  - BreakPlatform3
+  - BreakPlatform4
+  - BreakPlatform5
+  - BreakPlatform6
+  - BreakPlatform7
+  - BreakPlatform8
+  - BreakPlatform9
+  - BreakPlatform10
+  - BreakPlatform11
+  - TeleportBlue1
+  - TeleportBlue2
+  - TeleportBlue3
+  - TeleportGrey1
+  - TeleportGrey2
+  - TeleportGrey3
+  - MovingPlatform1
+  - MovingPlatform2
+  - MovingPlatform3
+  - FinalPanda1
+  - FinalPanda2
+  - FinalPanda3
+  - FinalPanda4
+  - FinalPanda5
+  - FinalPanda6
+  - FinalPanda7
+  - FinalPanda8
+  - Spikes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - GroundLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
